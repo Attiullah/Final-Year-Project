@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InsightMate</string>
+    <string name="preview_description">Camera preview for text recognition</string>
+    <string name="capture_text">Read Text</string>
+</resources>
